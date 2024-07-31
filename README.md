@@ -9,7 +9,7 @@ In this project the following technologies have been used:
 - CSS
 - JavaScript
 
-Along with that, in order to store user data and products data Browser Storage used as local storage
+Along with that, in order to store user data and products data Browser Storage(local storage) used
 
 ## Libraries Used
 
