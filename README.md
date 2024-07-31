@@ -1,7 +1,7 @@
 
 Clone of Myntra shopping site
 
-## Technologies we used
+## Technologies used
 
 In this project we have used the following technologies:
 
